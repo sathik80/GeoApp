@@ -19,9 +19,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Create a Spring Boot service implementation which exposes the following REST endpoints 
-
-Using the language of your choice please build your own API which calls the API at https://dwp-techtest.herokuapp.com/, and returns people who are listed as either living in London, or whose current coordinates are within 50 miles of London
+Create a Spring Boot service implementation which exposes an API which calls https://bpdts-test-app.herokuapp.com/, and returns people who are listed as either living in London, or whose current coordinates are within 50 miles of London.
 
 ### Built With
 * Java 8
