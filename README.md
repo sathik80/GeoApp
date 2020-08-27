@@ -44,7 +44,6 @@ Default http port used :8080
 * To get the users living with in 50 miles of London http://localhost:8080/londonUsers
 * To get all users from dwp-herokuapp api: http://localhost:8080/allUsers
 
-#### Note: We need to set the Lean token as key-value in the header. 
 #### Used Postman application for setting them and testing.
 
 ## Exception Handling
@@ -57,7 +56,7 @@ We couold create our custom exceptions to handle invalid request, no records fou
  
  ## Swagger UI
  
-Swagger UI has been for this project
+Swagger UI has been enabled for this project
 
 * http://localhost:8080/swagger-ui.html
 ## Possible Improvements
